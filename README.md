@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 Hope you’re doing well 🌱
 
 <!--
 **tanngoc93/tanngoc93** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
